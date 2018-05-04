@@ -295,6 +295,3 @@ namespace CarlosModernCalculator
         }
     }
 }
-
-
-
