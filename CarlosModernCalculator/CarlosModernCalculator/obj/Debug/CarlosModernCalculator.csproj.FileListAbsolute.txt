@@ -1,0 +1,19 @@
+c:\users\cafealv\documents\visual studio 2015\Projects\CarlosModernCalculator\CarlosModernCalculator\bin\Debug\CarlosModernCalculator.exe.config
+c:\users\cafealv\documents\visual studio 2015\Projects\CarlosModernCalculator\CarlosModernCalculator\bin\Debug\CarlosModernCalculator.exe
+c:\users\cafealv\documents\visual studio 2015\Projects\CarlosModernCalculator\CarlosModernCalculator\bin\Debug\CarlosModernCalculator.pdb
+c:\users\cafealv\documents\visual studio 2015\Projects\CarlosModernCalculator\CarlosModernCalculator\obj\Debug\CarlosModernCalculator.csprojResolveAssemblyReference.cache
+c:\users\cafealv\documents\visual studio 2015\Projects\CarlosModernCalculator\CarlosModernCalculator\obj\Debug\CarlosModernCalculator.Form1.resources
+c:\users\cafealv\documents\visual studio 2015\Projects\CarlosModernCalculator\CarlosModernCalculator\obj\Debug\CarlosModernCalculator.Properties.Resources.resources
+c:\users\cafealv\documents\visual studio 2015\Projects\CarlosModernCalculator\CarlosModernCalculator\obj\Debug\CarlosModernCalculator.csproj.GenerateResource.Cache
+c:\users\cafealv\documents\visual studio 2015\Projects\CarlosModernCalculator\CarlosModernCalculator\obj\Debug\CarlosModernCalculator.exe
+c:\users\cafealv\documents\visual studio 2015\Projects\CarlosModernCalculator\CarlosModernCalculator\obj\Debug\CarlosModernCalculator.pdb
+C:\Users\Cafealv\source\repos\simple-calculator-in-C-Sharp\CarlosModernCalculator\CarlosModernCalculator\bin\Debug\CarlosModernCalculator.exe.config
+C:\Users\Cafealv\source\repos\simple-calculator-in-C-Sharp\CarlosModernCalculator\CarlosModernCalculator\bin\Debug\CarlosModernCalculator.exe
+C:\Users\Cafealv\source\repos\simple-calculator-in-C-Sharp\CarlosModernCalculator\CarlosModernCalculator\bin\Debug\CarlosModernCalculator.pdb
+C:\Users\Cafealv\source\repos\simple-calculator-in-C-Sharp\CarlosModernCalculator\CarlosModernCalculator\obj\Debug\CarlosModernCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Cafealv\source\repos\simple-calculator-in-C-Sharp\CarlosModernCalculator\CarlosModernCalculator\obj\Debug\CarlosModernCalculator.Form1.resources
+C:\Users\Cafealv\source\repos\simple-calculator-in-C-Sharp\CarlosModernCalculator\CarlosModernCalculator\obj\Debug\CarlosModernCalculator.Properties.Resources.resources
+C:\Users\Cafealv\source\repos\simple-calculator-in-C-Sharp\CarlosModernCalculator\CarlosModernCalculator\obj\Debug\CarlosModernCalculator.csproj.GenerateResource.cache
+C:\Users\Cafealv\source\repos\simple-calculator-in-C-Sharp\CarlosModernCalculator\CarlosModernCalculator\obj\Debug\CarlosModernCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Cafealv\source\repos\simple-calculator-in-C-Sharp\CarlosModernCalculator\CarlosModernCalculator\obj\Debug\CarlosModernCalculator.exe
+C:\Users\Cafealv\source\repos\simple-calculator-in-C-Sharp\CarlosModernCalculator\CarlosModernCalculator\obj\Debug\CarlosModernCalculator.pdb
