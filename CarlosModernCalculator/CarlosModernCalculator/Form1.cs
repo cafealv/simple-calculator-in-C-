@@ -84,18 +84,15 @@ namespace CarlosModernCalculator
         private void Form1_Load(object sender, EventArgs e)
         {
             //TxtBoxCalNum.Text = "0";
-
         }
 
         private void TxtBoxCalNum_TextChanged(object sender, EventArgs e)
         {
-            
         }
 
         private void BtnON_Click(object sender, EventArgs e)
         {
             enable();     //Call enable function() to turn on calculator
-
         }
 
         private void BtnOFF_Click(object sender, EventArgs e)
